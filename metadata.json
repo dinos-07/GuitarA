@@ -1,0 +1,7 @@
+{
+  "name": "guitarA",
+  "description": "Analyze your guitar playing with AI, get personalized feedback, and access custom exercises.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
